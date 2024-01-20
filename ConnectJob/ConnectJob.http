@@ -1,0 +1,6 @@
+@ConnectJob_HostAddress = http://localhost:5109
+
+GET {{ConnectJob_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
