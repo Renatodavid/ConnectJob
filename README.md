@@ -52,14 +52,18 @@ Exemplo de resposta:
 {
   "resultados": [
     {
-      "id": 1,
-      "titulo": "Exemplo 1",
-      "descricao": "Descrição do exemplo 1"
+     "id": 1,
+      "nome": "Exemplo 1",
+        "senha": "Descrição do exemplo 1",
+          "email": "Exemplo 1",
+            "cpf": "Exemplo 1"
     },
     {
       "id": 2,
-      "titulo": "Exemplo 2",
-      "descricao": "Descrição do exemplo 2"
+      "nome": "Exemplo 2",
+        "senha": "Descrição do exemplo 2",
+          "email": "Exemplo 2",
+            "cpf": "Exemplo 2"
     }
   ]
 }
